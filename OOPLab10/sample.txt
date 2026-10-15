@@ -1,0 +1,4 @@
+Object oriented programming is fun.
+Classes and objects model the real world.
+
+Streams make file processing declarative.
